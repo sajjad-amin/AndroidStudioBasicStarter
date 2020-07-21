@@ -1,0 +1,3 @@
+include ':AndroidStudioBasicStarter'
+include ':app'
+rootProject.name = "AndroidStudioBasicStartarExample"
